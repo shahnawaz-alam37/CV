@@ -1,0 +1,20 @@
+body {
+    background-color: #F7ECDE;
+    color: #2A0944;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 8%;
+}
+
+h1:hover{
+    color: #256D85;
+}
+
+.exp{
+    font-size: 20px;
+    font-weight: bold;
+}
